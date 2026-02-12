@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "また君と",
+  "base_artist": "JAY'ED",
+  "createdAt": "2026-02-12T06:45:37.676906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "また君と",
+      "artist": "JAY'ED/Ms.OOJA",
+      "has_synced": true,
+      "path": "select/01_また君と_JAY'ED_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "また君と - Mata Kimito (feat. Ms.OOJA)",
+      "artist": "JAY'ED",
+      "has_synced": true,
+      "path": "select/02_また君と_-_Mata_Kimito_(feat._Ms.OOJA)_JAY'ED.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また君と",
+      "artist": "JAY'ED",
+      "has_synced": false,
+      "path": "select/pl_01_また君と_JAY'ED.txt"
+    }
+  ]
+}
